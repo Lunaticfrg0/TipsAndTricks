@@ -11,7 +11,7 @@ namespace TipsAndTricks
         {
             InitializeComponent();
 
-            MainPage = new AppPage();
+            MainPage = new NavigationPage(new AppPage());
         }
 
         protected override void OnStart()

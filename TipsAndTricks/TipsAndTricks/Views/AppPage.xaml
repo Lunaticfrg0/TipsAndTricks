@@ -7,7 +7,9 @@
              x:Class="TipsAndTricks.Views.AppPage"
              xmlns:sys="clr-namespace:System;assembly=mscorlib"
              xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
-             NavigationPage.HasNavigationBar="True"
+             NavigationPage.HasNavigationBar ="True"
+             Title="Tips and Tricks"
+             
              >
     <ContentPage.Content>
         <StackLayout VerticalOptions="CenterAndExpand"
