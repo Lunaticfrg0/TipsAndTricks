@@ -5,7 +5,7 @@ Practica Tips and Tricks
 # Tips Utilizados
 # 1: Using StringFormat para dar bienvenida y dar formato a fecha.
 # 2  Using static properties para conseguir acceso a sys:DateTime.Now.
-# 3  Using attached properties para exhibir un navigation bar en la pagina.
+# 3  Using attached properties para exhibir un navigation bar con titulo en la pagina.
 # 4  Added generic styles para dar formato generico a las content page y lab
 # 5  Using Native properties para cambiar el modo de actulizado "UpdateMode" de un picker en iOS.
 
