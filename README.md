@@ -10,5 +10,5 @@ Practica Tips and Tricks
 # 5  Using Native properties para cambiar el modo de actulizado "UpdateMode" de un picker en iOS.
 
 # Capturas de pantalla
-![Alt text](Images/Main.jpg?raw=true "Main Display")
-![Alt text](Images/MainCorrected.jpg?raw=true "Picker function")
+![Alt text](Images/MainCorrected.jpg?raw=true "Main Display")
+![Alt text](Images/picker.jpg?raw=true "Picker function")
